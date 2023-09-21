@@ -1,0 +1,30 @@
+/* Style the container */
+.college-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Style the heading */
+  .college-container h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the paragraphs */
+  .college-container p {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  /* Style the college name */
+  .college-container p:nth-child(2) {
+    font-weight: bold;
+  }
+  
+  /* Style the year of passing */
+  .college-container p:nth-child(4) {
+    font-style: italic;
+  }
+  
